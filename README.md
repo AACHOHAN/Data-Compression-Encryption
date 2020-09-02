@@ -1,2 +1,2 @@
-# Data-Compression-Encryption
+# Data Compression Encryption
 Experiments On Data Encryption (Mumbai University)
